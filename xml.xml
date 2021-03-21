@@ -37,7 +37,7 @@
 		<PRICE>16.80</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Insan-Ruhunun-Haritasi/Edebiyat/Denemeyazin/urunno=0000000381303</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 	 	<TITLE>Uçurtma Avcısı</TITLE>
 		<AUTHOR>Khaled Hosseini</AUTHOR>
 		<PUBLISHER>Everest Yayınları</PUBLISHER>
@@ -46,7 +46,7 @@
 		<PRICE>26.46</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Ucurtma-Avcisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000153127</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Fahrenheit 451</TITLE>
 		<AUTHOR>Ray Bradbury</AUTHOR>
 		<PUBLISHER>İthaki Yayınları</PUBLISHER>
@@ -55,7 +55,7 @@
 		<PRICE>17.40</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Yabancı</TITLE>
 		<AUTHOR>Albert Camus</AUTHOR>
 		<PUBLISHER>Can Yayınları</PUBLISHER>
@@ -64,7 +64,7 @@
 		<PRICE>11.70</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Yabanci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064464</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Serenad</TITLE>
 		<AUTHOR>Zülfü Livaneli</AUTHOR>
 		<PUBLISHER>Doğan Kitap</PUBLISHER>
@@ -73,7 +73,7 @@
 		<PRICE>30.40</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Serenad/Edebiyat/Roman/Turkiye-Roman/urunno=0000000357335</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Çavdar Tarlasında Çocuklar</TITLE>
 		<AUTHOR>Jerome David Salinger</AUTHOR>
 		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
@@ -145,7 +145,7 @@
 		<PRICE>9.36</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Beyaz-Gemi/Edebiyat/Roman/Dunya-Roman/urunno=0000000156851</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Kuyucaklı Yusuf</TITLE>
 		<AUTHOR>Sabahattin Ali</AUTHOR>
 		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
@@ -154,7 +154,7 @@
 		<PRICE>5.70</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Kuyucakli-Yusuf/Edebiyat/Roman/Turkiye-Roman/urunno=0000000052460</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Tehlikeli Oyunlar</TITLE>
 		<AUTHOR>Oğuz Atay</AUTHOR>
 		<PUBLISHER>İletişim Yayıncılık</PUBLISHER>
@@ -163,7 +163,7 @@
 		<PRICE>36.75</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Tehlikeli-Oyunlar/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061603</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Bin Muhteşem Güneş</TITLE>
 		<AUTHOR>Khaled Hosseini</AUTHOR>
 		<PUBLISHER>Everest Yayınları</PUBLISHER>
@@ -172,7 +172,7 @@
 		<PRICE>26.46</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Bin-Muhtesem-Gunes/Edebiyat/Roman/Dunya-Roman/urunno=0000000266552</URL>
 	 </Book>
-     <Book>
+     	 <Book>
 		<TITLE>Bin İdam Mahkumunun Son Günü</TITLE>
 		<AUTHOR>Victor Hugo</AUTHOR>
 		<PUBLISHER>Can Yayınları</PUBLISHER>
