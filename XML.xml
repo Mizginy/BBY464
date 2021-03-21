@@ -37,7 +37,7 @@
 		<PRICE>16.80</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Insan-Ruhunun-Haritasi/Edebiyat/Denemeyazin/urunno=0000000381303</URL>
 	 </Book>
-          <Book>
+         <Book> 
 		<TITLE>Tehlikeli Oyunlar</TITLE>
 		<AUTHOR>Oğuz Atay</AUTHOR>
 		<PUBLISHER>İletişim Yayıncılık</PUBLISHER>
@@ -46,7 +46,7 @@
 		<PRICE>36.75</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Tehlikeli-Oyunlar/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061603</URL>
 	 </Book>
-     <Book>
+         <Book> 
 		<TITLE>Bin Muhteşem Güneş</TITLE>
 		<AUTHOR>Khaled Hosseini</AUTHOR>
 		<PUBLISHER>Everest Yayınları</PUBLISHER>
@@ -54,8 +54,8 @@
 		<YEAR>2018</YEAR>
 		<PRICE>26.46</PRICE>
 		<URL>https://www.dr.com.tr/Kitap/Bin-Muhtesem-Gunes/Edebiyat/Roman/Dunya-Roman/urunno=0000000266552</URL>
-	 </Book>
-     <Book>
+	 </Book> 
+     <Book>  
 		<TITLE>Bin İdam Mahkumunun Son Günü</TITLE>
 		<AUTHOR>Victor Hugo</AUTHOR>
 		<PUBLISHER>Can Yayınları</PUBLISHER>
