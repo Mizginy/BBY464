@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	
+	<Book>
+		<TITLE>Sultanı Öldürmek</TITLE>
+		<AUTHOR>Ahmet Ümit</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789750846076</ISBN>
+		<YEAR>2019</YEAR>
+		<PRICE>25.20</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Sultani-Oldurmek/Ahmet-Umit/Edebiyat/Roman/Polisiye/urunno=0001846489001</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Kırlangıç Çığlığı</TITLE>
+		<AUTHOR>Ahmet Ümit</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789750845857</ISBN>
+		<YEAR>2019</YEAR>
+		<PRICE>20.20</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Kirlangic-Cigligi/Ahmet-Umit/Edebiyat/Roman/Polisiye/urunno=0001843343001</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Masumiyet Müzesi</TITLE>
+		<AUTHOR>Orhan Pamuk</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789750826146</ISBN>
+		<YEAR>2016</YEAR>
+		<PRICE>27.75</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Masumiyet-Muzesi/Edebiyat/Roman/Turkiye-Roman/urunno=0000000550626</URL>
+	 </Book>
+	 <Book>
+		<TITLE>İnsan Ruhunun Haritası</TITLE>
+		<AUTHOR>Ahmet Umit</AUTHOR>
+		<PUBLISHER>Everest Yayınları</PUBLISHER>
+		<ISBN>9789752897533</ISBN>
+		<YEAR>2012</YEAR>
+		<PRICE>16.80</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Insan-Ruhunun-Haritasi/Edebiyat/Denemeyazin/urunno=0000000381303</URL>
+	 </Book>
+     <Book>
+	 	<TITLE>Uçurtma Avcısı</TITLE>
+		<AUTHOR>Khaled Hosseini</AUTHOR>
+		<PUBLISHER>Everest Yayınları</PUBLISHER>
+		<ISBN>9789752891456</ISBN>
+		<YEAR>2004</YEAR>
+		<PRICE>26.46</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Ucurtma-Avcisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000153127</URL>
+	 </Book>
+     <Book>
+		<TITLE>Fahrenheit 451</TITLE>
+		<AUTHOR>Ray Bradbury</AUTHOR>
+		<PUBLISHER>İthaki Yayınları</PUBLISHER>
+		<ISBN>9786053757818</ISBN>
+		<YEAR>2018</YEAR>
+		<PRICE>17.40</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001</URL>
+	 </Book>
+     <Book>
+		<TITLE>Yabancı</TITLE>
+		<AUTHOR>Albert Camus</AUTHOR>
+		<PUBLISHER>Can Yayınları</PUBLISHER>
+		<ISBN>9789750741272</ISBN>
+		<YEAR>1996</YEAR>
+		<PRICE>11.70</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Yabanci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064464</URL>
+	 </Book>
+     <Book>
+		<TITLE>Serenad</TITLE>
+		<AUTHOR>Zülfü Livaneli</AUTHOR>
+		<PUBLISHER>Doğan Kitap</PUBLISHER>
+		<ISBN>9786050900286</ISBN>
+		<YEAR>2016</YEAR>
+		<PRICE>30.40</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Serenad/Edebiyat/Roman/Turkiye-Roman/urunno=0000000357335</URL>
+	 </Book>
+     <Book>
+		<TITLE>Çavdar Tarlasında Çocuklar</TITLE>
+		<AUTHOR>Jerome David Salinger</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789753636360</ISBN>
+		<YEAR>2006</YEAR>
+		<PRICE>15.75</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Cavdar-Tarlasinda-Cocuklar/Edebiyat/Roman/Dunya-Roman/urunno=0000000058117</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Aylak Adam</TITLE>
+		<AUTHOR>Yusuf Atılgan</AUTHOR>
+		<PUBLISHER>Can Yayınları</PUBLISHER>
+		<ISBN>9789750735646</ISBN>
+		<YEAR>2017</YEAR>
+		<PRICE>10.80</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Aylak-Adam/Edebiyat/Roman/Turkiye-Roman/urunno=0001719411001</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Kardeşimin Hikayesi</TITLE>
+		<AUTHOR>Zülfü Livaneli</AUTHOR>
+		<PUBLISHER>Doğan Kitap</PUBLISHER>
+		<ISBN>9786050914443</ISBN>
+		<YEAR>2013</YEAR>
+		<PRICE>24.32</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Kardesimin-Hikayesi/Edebiyat/Roman/Turkiye-Roman/urunno=0000000441667</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Korku</TITLE>
+		<AUTHOR>Stefan Zweig</AUTHOR>
+		<PUBLISHER>İş Bankası Kültür Yayınları</PUBLISHER>
+		<ISBN>9786053325017</ISBN>
+		<YEAR>2015</YEAR>
+		<PRICE>4.80</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Korku/Edebiyat/Roman/Dunya-Roman/urunno=0000000652495</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Kırmızı Saçlı Kadın</TITLE>
+		<AUTHOR>Orhan Pamuk</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789750835605</ISBN>
+		<YEAR>2016</YEAR>
+		<PRICE>13.90</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Kirmizi-Sacli-Kadin/Edebiyat/Roman/Turkiye-Roman/urunno=0000000679924</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Sol Ayağım</TITLE>
+		<AUTHOR>Christy Brown</AUTHOR>
+		<PUBLISHER>Nora Yayınları</PUBLISHER>
+		<ISBN>9789752473218</ISBN>
+		<YEAR>2017</YEAR>
+		<PRICE>16.50</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Sol-Ayagim/Edebiyat/Roman/Dunya-Roman/urunno=0001716966001</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Huzursuzluk</TITLE>
+		<AUTHOR>Zülfü Livaneli</AUTHOR>
+		<PUBLISHER>Doğan Kitap</PUBLISHER>
+		<ISBN>9786050939828</ISBN>
+		<YEAR>2017</YEAR>
+		<PRICE>18.24</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Huzursuzluk/Edebiyat/Roman/Turkiye-Roman/urunno=0001683026001</URL>
+	 </Book>
+	 <Book>
+		<TITLE>Beyaz Gemi</TITLE>
+		<AUTHOR>Cengiz Aytmatov</AUTHOR>
+		<PUBLISHER>Ötüken Neşriyat</PUBLISHER>
+		<ISBN>9789754370430</ISBN>
+		<YEAR>1995</YEAR>
+		<PRICE>9.36</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Beyaz-Gemi/Edebiyat/Roman/Dunya-Roman/urunno=0000000156851</URL>
+	 </Book>
+     <Book>
+		<TITLE>Kuyucaklı Yusuf</TITLE>
+		<AUTHOR>Sabahattin Ali</AUTHOR>
+		<PUBLISHER>Yapı Kredi Yayınları</PUBLISHER>
+		<ISBN>9789750800016</ISBN>
+		<YEAR>2001</YEAR>
+		<PRICE>5.70</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Kuyucakli-Yusuf/Edebiyat/Roman/Turkiye-Roman/urunno=0000000052460</URL>
+	 </Book>
+     <Book>
+		<TITLE>Tehlikeli Oyunlar</TITLE>
+		<AUTHOR>Oğuz Atay</AUTHOR>
+		<PUBLISHER>İletişim Yayıncılık</PUBLISHER>
+		<ISBN>9789754702095</ISBN>
+		<YEAR>2000</YEAR>
+		<PRICE>36.75</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Tehlikeli-Oyunlar/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061603</URL>
+	 </Book>
+     <Book>
+		<TITLE>Bin Muhteşem Güneş</TITLE>
+		<AUTHOR>Khaled Hosseini</AUTHOR>
+		<PUBLISHER>Everest Yayınları</PUBLISHER>
+		<ISBN>9789752894846</ISBN>
+		<YEAR>2018</YEAR>
+		<PRICE>26.46</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Bin-Muhtesem-Gunes/Edebiyat/Roman/Dunya-Roman/urunno=0000000266552</URL>
+	 </Book>
+     <Book>
+		<TITLE>Bin İdam Mahkumunun Son Günü</TITLE>
+		<AUTHOR>Victor Hugo</AUTHOR>
+		<PUBLISHER>Can Yayınları</PUBLISHER>
+		<ISBN>9789750739163</ISBN>
+		<YEAR>2018</YEAR>
+		<PRICE>6.40</PRICE>
+		<URL>https://www.dr.com.tr/Kitap/Bir-Idam-Mahkumunun-Son-Gunu/Edebiyat/Roman/Dunya-Klasik/urunno=0001788065001</URL>
+	 </Book>
+
+</bookstore>
